@@ -47,7 +47,7 @@ dolphin
 ## ## Package / Tool / Text Editor
 ##
 
-kwrite
+#kwrite
 kate
 
 

@@ -47,9 +47,16 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
-| [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
-| [Linux Mint Adjustment](https://samwhelp.github.io/linuxmint-adjustment/) | [GitHub](https://github.com/samwhelp/linuxmint-adjustment) |
+| [Kde Adjustment](https://samwhelp.github.io/kde-adjustment/) | [GitHub](https://github.com/samwhelp/kde-adjustment) |
+| [Kde Plasma Adjustment](https://samwhelp.github.io/kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/kde-plasma-adjustment) |
+| [Kde Neon Adjustment](https://samwhelp.github.io/kde-neon-adjustment/) | [GitHub](https://github.com/samwhelp/kde-neon-adjustment) |
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [Kubuntu Adjustment](https://samwhelp.github.io/kubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/kubuntu-adjustment) |
+| [Debian Kde Plasma Adjustment](https://samwhelp.github.io/debian-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/debian-kde-plasma-adjustment) |
+| [Fedora Kde Plasma Adjustment](https://samwhelp.github.io/fedora-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-kde-plasma-adjustment) |
 
 
 

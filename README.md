@@ -5,8 +5,8 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Solus Kde Plasma Adjustment](https://samwhelp.github.io/solus-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/solus-kde-plasma-adjustment) |
-| [Solus Adjustment](https://samwhelp.github.io/solus-adjustment/) | [GitHub](https://github.com/samwhelp/solus-adjustment) |
 | [Solus Kde Plasma Note](https://samwhelp.github.io/note-about-solus-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-solus-kde-plasma) |
+| [Solus Adjustment](https://samwhelp.github.io/solus-adjustment/) | [GitHub](https://github.com/samwhelp/solus-adjustment) |
 
 
 

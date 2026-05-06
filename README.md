@@ -14,6 +14,7 @@
 ## Subject
 
 * [Script](#script)
+* [Resource](#resource)
 * [Link](#link)
 
 
@@ -25,6 +26,19 @@
 | ------ |
 | [Solus Kde Plasma Config](https://github.com/samwhelp/solus-kde-plasma-adjustment/tree/main/prototype/main/kde-config) |
 | [Tool Config](https://github.com/samwhelp/solus-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+
+
+## Resource
+
+| Kde Resource |
+| ------------ |
+| [kde-plasma-layout-templates](https://github.com/samwhelp/kde-plasma-layout-templates) |
+| [kde-plasma-look-and-feel](https://github.com/samwhelp/kde-plasma-look-and-feel) |
+| [kde-plasma-layout-switch](https://github.com/samwhelp/kde-plasma-layout-switch) |
+| [kde-plasma-style-switch](https://github.com/samwhelp/kde-plasma-style-switch) |
+| [kde-plasma-keybind-switch](https://github.com/samwhelp/kde-plasma-keybind-switch) |
 
 
 

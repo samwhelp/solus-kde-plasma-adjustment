@@ -57,6 +57,8 @@
 | [Kubuntu Adjustment](https://samwhelp.github.io/kubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/kubuntu-adjustment) |
 | [Debian Kde Plasma Adjustment](https://samwhelp.github.io/debian-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/debian-kde-plasma-adjustment) |
 | [Fedora Kde Plasma Adjustment](https://samwhelp.github.io/fedora-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-kde-plasma-adjustment) |
+| [Archlinux Kde Plasma Adjustment](https://samwhelp.github.io/archlinux-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-kde-plasma-adjustment) |
+| [Voidlinux Kde Plasma Adjustment](https://samwhelp.github.io/voidlinux-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-kde-plasma-adjustment) |
 
 
 
